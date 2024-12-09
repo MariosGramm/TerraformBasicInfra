@@ -1,0 +1,3 @@
+Το παρόν project είναι ένα βασικό infrastructure στο AWS μέσω terraform . Αποτελείται από ένα EC2 Instance(Ubuntu_server) με όλα τα απαραίτητα resources για να είναι προσπελάσιμο μέσω internet (internet gateway , route table , nic , κλπ). Επιτρέπει και την σύνδεση SSH για απομακρυσμένη διαχείριση μέσω PuTTY και OpenSSH .
+
+The present project is a basic infrastructure on AWS through Terraform. It consists of an EC2 instance (Ubuntu server) with all the necessary resources to be accessible via the internet (internet gateway, route table, NIC, etc.). It also allows SSH connection for remote management through PuTTY and OpenSSH.
